@@ -1,14 +1,13 @@
 # Hreflang and International SEO Validator
 
 [![Hreflang Validator](https://img.shields.io/badge/TAVARDT-Hreflang-5b3cf5.svg)](https://tools.tavardt.com/hreflang-checker/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-United%20States-00C853.svg)](https://ag.tavardt.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audits alternate return tags, regional language targeting, and x-default annotations under W3C standards.
 
-Developed and maintained by the global search systems engineering division of **[TAVARDT USA](https://ag.tavardt.com/)**.
+Developed and maintained by the global search systems engineering division of **TAVARDT USA**.
 
----
+***
 
 ## International SEO and Hreflang Audit Capabilities
 
@@ -18,7 +17,7 @@ Developed and maintained by the global search systems engineering division of **
 * **Canonical Tag Consistency**: Detects conflicts between canonical URLs and self-referencing hreflang annotations.
 * **International Architecture Score**: Technical score from 0 to 100 with prioritized remediation guidance.
 
----
+***
 
 ## Installation and Execution
 
@@ -33,20 +32,20 @@ python hreflang_validator.py https://company.com
 To output results in structured JSON format:
 
 ```bash
-python hreflang_validator.py https://company.com --json
+python hreflang_validator.py https://company.com -json
 ```
 
----
+***
 
 ## Comprehensive Web Diagnostic
 
 For full web verification and deep international site crawls:
 
-* **[Official Hreflang Checker Tool](https://tools.tavardt.com/hreflang-checker/)**
-* **[TAVARDT USA Enterprise Portal](https://ag.tavardt.com/)**
+* **Official Hreflang Checker Tool**
+* **TAVARDT USA Enterprise Portal**
 
----
+***
 
 ## International SEO and Global Search Advisory
 
-For enterprise international architectures aligning with W3C Recommendations and US Digital Standards, contact the specialists at **[TAVARDT USA](https://ag.tavardt.com/contact/)**.
+For enterprise international architectures aligning with W3C Recommendations and US Digital Standards, contact the specialists at **TAVARDT USA**.
