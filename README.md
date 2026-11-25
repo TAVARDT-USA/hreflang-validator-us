@@ -66,15 +66,6 @@ The validator enforces ISO 639-1 for two-letter language identifiers and ISO 316
 
 ***
 
-## Online Diagnostic Suite
-
-For comprehensive web testing and visual verification of international tags:
-
-* [Hreflang Validator](https://tools.tavardt.com/hreflang-checker/)
-* [Corporate Portal](https://ag.tavardt.com/)
-
-***
-
 ## International SEO and Global Architecture Advisory
 
 For complex multi-regional setups and technical alignment with W3C Internationalisation Standards, consult **TAVARDT**.
